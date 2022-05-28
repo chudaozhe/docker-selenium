@@ -1,0 +1,5 @@
+.idea
+/examples/javascript/node_modules/
+/examples/javascript/package-lock.json
+/examples/python/venv
+/videos
